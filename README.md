@@ -27,3 +27,9 @@ The application follows a classic **Client-Server Architecture** split into dist
     "status": "healthy",
     "timestamp": "2026-06-27 16:30:00.123456"
   }
+
+---
+
+## Demo Video 
+
+<video src="src/demo.mp4" controls width="100%"></video>
